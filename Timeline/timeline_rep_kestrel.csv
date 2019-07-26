@@ -1,0 +1,10 @@
+REPOSITORY,ISSUE_ID,STATUS,EVENT,CREATED_AT,TIME DURATION,NEGATIVE,NEUTRAL,POSITIVE,MSG,
+kestrel,53,closed,opened,2011-07-25 22:18:54,,,,,,
+kestrel,53,closed,title,2011-07-25 22:18:54,00:00,,1,,"b""b' Error when trying to view Admin interface'""",
+kestrel,53,closed,body,2011-07-25 22:18:54,00:00,,1,,"b""b' When I try to view stats through the admin interface I receive the following error in the ... this is running in development mode on a Mac OS X lion instance. ERR [20110725-15:13:27.982] admin: Exception processing admin http requestERR [20110725-15:13:27.982] admin: ERR [20110725-15:13:27.982] admin:   at $(:147)ERR [20110725-15:13:27.982] admin:   at (:45)ERR [20110725-15:13:27.982] admin:   at (:195)ERR [20110725-15:13:27.982] admin:   at (:143)ERR [20110725-15:13:27.982] admin:   at $(:65)ERR [20110725-15:13:27.982] admin:   at (:65)ERR [20110725-15:13:27.982] admin:   at $(:68)ERR [20110725-15:13:27.982] admin:   at $Exchange$(:555)ERR [20110725-15:13:27.982] admin:   at $(:65)ERR [20110725-15:13:27.982] admin:   at $(:527)ERR [20110725-15:13:27.982] admin:   at $(:119)ERR [20110725-15:13:27.982] admin:   at $(:349)ERR [20110725-15:13:27.982] admin:   at $(:321)ERR [20110725-15:13:27.982] admin:   at (:680)'""",
+kestrel,53,closed,closed,2011-07-25 22:19:36,0.7,0,2,0,,
+kestrel,53,closed,reopened,2011-07-25 22:20:51,1.25,0,2,0,,
+kestrel,53,closed,1,2011-07-25 22:18:54,251.87,,1,,"b""b' oh"," that might be a known bug with the older version of ostrich i was using. i just upgraded to the latest ostrich on master. can you try again?'"""
+kestrel,53,closed,2,2011-07-25 22:18:54,26.22,,,1,"b""b' Ha ha. It works.  I thought I might see the server or per queue stats here. Oh well.  Thanks for the quick fix.'""",
+kestrel,53,closed,closed,2011-07-27 22:04:54,1424.05,0,3,1,,
+kestrel,53,closed,-,-,-,0,3,1,,

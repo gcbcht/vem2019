@@ -1,0 +1,11 @@
+REPOSITORY,ISSUE_ID,STATUS,EVENT,CREATED_AT,TIME DURATION,NEGATIVE,NEUTRAL,POSITIVE,MSG
+flockdb,76,closed,opened,2012-01-24 00:56:53,,,,,
+flockdb,76,closed,title,2012-01-24 00:56:53,00:00,,1,,"b""b' Finagle-ize flockdb and make the read paths async'"""
+flockdb,76,closed,body,2012-01-24 00:56:53,00:00,,1,,"b""b' Summary of changes:Use Finagle for the server implementation and scrooge for thrift code genUse async querulous for backend SQL queriesMake read request processing fully async'"""
+flockdb,76,closed,1,2012-01-24 00:56:53,1425.5,,,1,"b""b' Shipit!'"""
+flockdb,76,closed,2,2012-01-24 00:56:53,1327.48,,1,,"b""b' shipit'"""
+flockdb,76,closed,3,2012-01-24 00:56:53,54.83,,,1,"b""b' Thanks for the reviews. Will merge to master.'"""
+flockdb,76,closed,closed,2012-02-02 23:44:42,1367.82,0,3,2,
+flockdb,76,closed,reopened,2012-02-02 23:47:01,2.32,0,3,2,
+flockdb,76,closed,closed,2012-02-02 23:47:01,0.0,0,3,2,
+flockdb,76,closed,-,-,-,0,3,2,
